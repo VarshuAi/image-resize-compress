@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Mock compressor showing visual weight reduction metrics.
+  name: image-resize-compress version: 1.0 type: Repository author: VarshuAi description: >   Mock compressor showing visual weight reduction metrics. primary_tech: CSS
 primary_tech: CSS
 ```
 
